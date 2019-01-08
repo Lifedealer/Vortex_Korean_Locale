@@ -1,0 +1,19 @@
+{
+  "Autosort enabled (using LOOT)": "자동 정렬 활성됨 (LOOT 사용)",
+  "Autosort disabled (using LOOT)": 자동 정렬 비활성화됨 (LOOT 사용)",
+  "Sort now": "지금 정렬",
+  "Name": "이름",
+  "Flags": "플래그",
+  "Load Order": "로두 번호",
+  "Mod Index": "모드 인덱스",
+  "Loaded by the engine, can't be configured": "엔진에 의해 로드되며 구성 할 수 없습니다.",
+  "Requires cleaning (LOOT)": "청소 필요 (LOOT)",
+  "Master": "마스터",
+  "Save": "저장",
+  "Autosort enabled": "자동 정렬 활성화됨",
+  "Loads after:": "후에 로그:",
+  "load after {{ reference }}": "{{ reference }} 후에 로드",
+  "Autosort Enabled": "자동 정렬 활성화됨",
+  "Sort Now": "지금 정렬",
+  "Autosort Disabled": "자동 정렬 비활성화됨"
+}

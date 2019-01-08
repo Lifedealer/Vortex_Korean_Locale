@@ -1,0 +1,5 @@
+{
+  "{{ count }} conflicting file": "{{count}} 충돌하는 파일",
+  "{{ count }} conflicting file_plural": "{{count}} 충돌하는 파일",
+  "Save": "저장"
+}
